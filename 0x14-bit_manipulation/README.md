@@ -1,1 +1,1 @@
-function that returns the number of bits you would need to flip to get from NO
+Write a function that checks the endianness.
