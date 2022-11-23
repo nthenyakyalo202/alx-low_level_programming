@@ -1,1 +1,1 @@
-A recursive function is a function that call itself.	
+Write a function that prints a string, followed by a new line.
